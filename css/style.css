@@ -1,0 +1,16 @@
+#Description{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #ff4c68;
+}
+h1{
+  font-family:"Montserrat";
+  font-size: 1.5rem;
+}
+p{
+  font-family: "Otomanopee One";
+  font-weight: bold;
+}
+#bottom{
+  padding:3% 8%
+}
